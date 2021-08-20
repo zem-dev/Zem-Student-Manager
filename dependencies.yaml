@@ -1,0 +1,13 @@
+
+THESE ARE THE EXACT THINGS
+frontend:
+  axios,
+  react-router-dom,
+  node-sass
+
+backend:
+  express,
+  mongoose,
+  cors,
+  nodemon,
+  bcrypt
